@@ -1,0 +1,35 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.hell{
+    
+    position: fixed;
+    cursor: pointer;
+    display: flex;   
+    justify-content: space-around;
+  
+   background-color:#2d313a;  
+   z-index: 100;   
+   padding: 5px;  
+   width: 100%;  
+   color: white;
+   font-weight: 600;
+   border: 0ch;   
+   font-size: 3vw;
+   height: 10vh;
+   box-shadow: 5px;
+
+}
+
+
+@media (max-width: 990px) {
+    .header{
+        font-size: 6.5vw;
+
+    }
+    
+}
+
+
+ 
